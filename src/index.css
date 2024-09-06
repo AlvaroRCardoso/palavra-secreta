@@ -1,0 +1,34 @@
+html,
+body {
+  height: 100%;
+  user-select: none;
+}
+
+body {
+  font-family: Inter;
+  margin: 0;
+  padding: 0;
+  background: #333;
+  color: #f1f1f1;
+}
+
+button {
+  font-family: Inter;
+  background-color: #ccd5ae;
+  color: #606c38;
+  padding: 0 45px;
+  border: 2px solid #606c38;
+  border-radius: 25px;
+  height: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+button:hover {
+  background: #606c38;
+  color: #ccd5ae;
+  border-color: #ccd5ae;
+}
