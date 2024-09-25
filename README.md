@@ -1,3 +1,3 @@
 # React
 
-Veja: palavrasecreta-nine.vercel.app
+Veja: https://palavrasecreta-nine.vercel.app
